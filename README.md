@@ -1,4 +1,4 @@
-# webgl-msaa-test
+# webgl-a2c-demo
 
 Demo for working with alpha to coverage in WebGL.
 
